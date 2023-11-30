@@ -54,4 +54,4 @@ jobs:
           app-name: 'deliveryexcellence1212'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FFEE194A8DEA49818732ADD65C3F213B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_940CB44E4D0C417F803F57016CB09787 }}
